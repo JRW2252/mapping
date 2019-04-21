@@ -1,0 +1,12 @@
+{
+  "FavoriteMovies": [
+    {
+      "Genre": "FAMILY",
+      "Id": 1,
+      "Name": "Sponge Bob Square Pants"
+    }
+  ],
+  "FirstName": "Jimmy",
+  "Id": 1,
+  "LastName": "John"
+}
