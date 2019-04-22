@@ -1,1 +1,12 @@
-{"id":1,"firstName":"Jimmy","lastName":"John","favoriteMovies":[{"id":1,"name":"Sponge Bob Square Pants","genre":"FAMILY"}]}
+{
+  "id": 1,
+  "firstName": "Jimmy",
+  "lastName": "John",
+  "favoriteMovies": [
+    {
+      "id": 1,
+      "name": "Sponge Bob Square Pants",
+      "genre": "FAMILY"
+    }
+  ]
+}
