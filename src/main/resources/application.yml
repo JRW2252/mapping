@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: mapping
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+      base-path: '/'
+
+message: not hello world
